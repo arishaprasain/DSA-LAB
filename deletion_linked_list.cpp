@@ -81,7 +81,7 @@ Node* delete_node(Node* head, int data) {
 
 int main() {
     Node* head = new Node(46);
-    Node* second = push(head, 100);
+    Node* second = push(head, 1002);
     Node* third = push(second, 10);
     Node* fourth = push(third, 100);
 
@@ -102,7 +102,7 @@ int main() {
     cout << "--------------------------------------------" << endl;
 
     cout << "CASE 3 : ELEMENT AT OTHER THAN FIRST POSITION DELETION: " << endl;
-    head = delete_node(head, 10);
+    head = delete_node(head, 100);
 
     linked_list_traversal(head);
     cout << "--------------------------------------------" << endl;
