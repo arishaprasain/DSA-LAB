@@ -116,14 +116,14 @@ int main()
     stack.push(3);
     stack.push(4);
 
-    std::cout << "Stack Top: " << stack.stackTop() << std::endl;
-    std::cout << "Stack Bottom: " << stack.stackBottom() << std::endl;
+    cout << "Stack Top: " << stack.stackTop() << endl;
+    cout << "Stack Bottom: " << stack.stackBottom() << endl;
 
-    std::cout << "Peek at position 2: " << stack.peek(2) << std::endl;
+    cout << "Peek at position 2: " << stack.peek(2) << endl;
 
     stack.pop();
 
-    std::cout << "After popping, Stack Top: " << stack.stackTop() << std::endl;
+    cout << "After popping, Stack Top: " << stack.stackTop() << std::endl;
 
     return 0;
 }
