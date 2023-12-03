@@ -35,5 +35,13 @@ DAY 10
 
 DAY 11
 -CIRCULAR QUEUE IMPLEMENTATION
+![13](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/e1d1473e-2f9a-452c-bd77-8f38185d6f46)
+
+
+DAY 12
+-QUEUE IMPLEMENATTION USING LINKED LIST
+![14](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/429229cb-8803-4d44-a303-0ead34fbd969)
+
+
 
 ![Alt text](image-1.png)
