@@ -43,5 +43,11 @@ DAY 12
 ![14](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/429229cb-8803-4d44-a303-0ead34fbd969)
 
 
+DAY 13
+-DOUBLE ENDED QUEUE IMPLEMENTATION
+
+DAY 14
+-BUBBLE SORT ALGORITHM
+![16](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/0980f9e7-6039-4542-8135-9475a7973889)
 
 ![Alt text](image-1.png)
