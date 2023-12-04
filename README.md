@@ -50,4 +50,9 @@ DAY 14
 -BUBBLE SORT ALGORITHM
 ![16](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/0980f9e7-6039-4542-8135-9475a7973889)
 
+DAY 15
+-INSERTION SORT ALGORITHM
+![17](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/ab8f3d99-0f2e-489c-af15-4d4dbc4927d4)
+
+
 ![Alt text](image-1.png)
