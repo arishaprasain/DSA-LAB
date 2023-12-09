@@ -62,10 +62,11 @@ DAY 14
 DAY 15
 -INSERTION SORT ALGORITHM
 ![17](https://github.com/arishaprasain/DSA-FOR-90-DAYS/assets/105920260/ab8f3d99-0f2e-489c-af15-4d4dbc4927d4)
-
-
 ![Alt text](image-1.png)
+
+
 DAY 16
+
 
 DAY 17
 
