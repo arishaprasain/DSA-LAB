@@ -1,3 +1,5 @@
+// Perform enqueue and dequeue operations in Circular Queue
+
 #include <iostream>
 using namespace std;
 
@@ -39,16 +41,19 @@ class CircularQueue
 
  bool CircularQueue::isEmpty()
 {
-    if (front == -1)
+    if (front == -1)    // when queue hasn't been initialised ever
     {
         cout << "Queue is empty" << endl;
         return true;
     }
-    else
+    else if(front == back + 1)  // when queue is made full and all elements dequeued
     {
-        return false;
+        front = -1;
+        back = -1;
+        return true;
     }
-    
+    else
+        return false;
 }
 
 void CircularQueue:: enqueue(int val)
@@ -109,7 +114,7 @@ int CircularQueue:: dequeue()
 
 void CircularQueue::displayQueue()
 {
-    for(int i = 0  ; i < size ; i++)
+    for(int i = front  ; i < size ; i++)
     {
         cout << array[i] << endl;
     }
